@@ -1,0 +1,4 @@
+Hello My name is Nayak Yadav.
+I created this file for the learning purpose.
+This is a new line added to the file using append mode.
+This is a new line added to the file using append mode.
